@@ -17,3 +17,4 @@ class Result(db.Model):
 
     def __repr__(self):
         return '<id {}>'.format(self.id)
+        

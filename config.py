@@ -24,4 +24,11 @@ class DevelopmentConfig(Config):
 
 
 class TestingConfig(Config):
+<<<<<<< HEAD
     TESTING = True
+=======
+    TESTING = True
+
+
+    
+>>>>>>> 2b27752c4795dea23137717526852935fdbe5442
